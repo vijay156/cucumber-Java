@@ -1,4 +1,3 @@
-package io.cucumber.skeleton;
 
 import java.io.FileWriter;
 import java.io.IOException;
